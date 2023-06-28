@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>My First JavaScript</title>
+<script language="JavaScript">
+document.write("I'm Java script in the HEAD.");
+</script>
+</head>
+<body>
+<br>
+I'm a plain HTML text.
+<br>
+<script language="JavaScript">
+//To write script in the body
+document.write("I'm Javascript in the BODY");
+</script>
+</body>
+</html>

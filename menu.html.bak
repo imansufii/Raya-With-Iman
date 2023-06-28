@@ -1,0 +1,57 @@
+<html>
+<style>
+	body {
+		font-family: Arial, sans-serif;
+		margin: 0;
+		padding: 0;
+	}
+	
+	nav {
+		background-color: #2C3E50;
+		color: #fff;
+		padding: 10px 20px;
+		height:100%;
+		position: fixed;
+		left: 0;
+		top: 0;
+	}
+
+	nav ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	nav li {
+		display: block;
+		margin-bottom: 10px;
+	}
+
+	nav a {
+		color: #fff;
+		padding: 10px;
+		text-decoration: none;
+		display: block;
+	}
+
+	nav a:hover {
+		background-color: #778899;
+		color: #2C3E50;
+	}
+	
+	h2 {
+		font-size: 2em;
+		text-align: center;
+	}
+</style>
+<body>
+	<nav>
+		<h2>MENU</h2>
+		<a href="home.html" target="content"><h3>Home</a><p>
+		<a href="about.html" target="content">About Me</a><p>
+		<a href="preparation.html" target="content">Preparation for Raya</a><p>
+		<a href="raya.html" target="content">Raya Day</a><p>
+		<a href="gallery.html" target="content">Raya Gallery</a>
+	</nav>
+</body>
+</html>

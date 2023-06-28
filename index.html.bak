@@ -1,0 +1,12 @@
+<!DOCTYPE htmml>
+<html>
+<head>
+	<title>Raya Celebration with Iman Sufi</title>
+</head>
+<frameset cols="16%, *">
+	<frame name="menu" src="menu.html" noresize="0"></frame>
+	<frameset rows="16%, *">
+		<frame name="header" src="header.html" noresize="0"></frame>
+		<frame name="content" src="home.html" noresize="0"></frame>
+</frameset>
+</html>
